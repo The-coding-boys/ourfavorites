@@ -2,6 +2,10 @@ Black Hawk Down
 Jarhead
 Nobody
 Shooter
+<<<<<<< HEAD
 John Wick
 
+=======
+The notebook
+>>>>>>> 0c2b9d5 (added another movie)
 
