@@ -5,6 +5,8 @@ Shooter
 <<<<<<< HEAD
 John Wick
 White House Down
+Gamer
+
 =======
 The notebook
 >>>>>>> 0c2b9d5 (added another movie)
