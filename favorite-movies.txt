@@ -6,6 +6,7 @@ Shooter
 John Wick
 White House Down
 Gamer
+Free Guy
 
 =======
 The notebook
